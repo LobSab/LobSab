@@ -5,7 +5,7 @@
 I'm a DevOps Nano Degree UDACITY Graduate, currently practising some DevOps culture with Linux Foundation training bundle, and leveling-up with Cousera: Google IT Support. **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at the GCP Certified Program [Professional Cloud Architect](https://cloud.google.com/learn/certification/cloud-architect) Class of 2023.
+- 💡 Fun fact: I'm currently studying and levelling skills on IaC using Terraform and Automation and Configuration Management with Ansible.
 - 🌱 I’m currently learning and practicing some core AWS cloud infastructures
 - 😊 I’m looking for more collaborations with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: DevOps Engineer, IT Support, Project Mgt. (Intern or Junior level).
